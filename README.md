@@ -7,4 +7,4 @@ Removes unused vertex groups and bones from meshes that actually works on Blende
 3. Open the tab named "Object" (its the orange square)
 4. Then there should be a button "Remove unused Vertex Groups and Bones"
    
-![image](![Untitled](https://github.com/mad4art/Remove_unused_vertex_groups_and_bones/assets/65566489/ead616cd-2679-4fcd-91fc-f586a99e4d84))
+![image](https://github.com/mad4art/Remove_unused_vertex_groups_and_bones/assets/65566489/ead616cd-2679-4fcd-91fc-f586a99e4d84)
