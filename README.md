@@ -2,7 +2,7 @@
 Removes unused vertex groups, bones and shape keys from meshes that actually works on Blender 4.0+!
 
 **Installing The Add-on**
-1. Download 'Remove_Unused_Shape_Keys.py' or 'remove_unused_vertex_groups_and_bones.py' from the Releases sectionof the page.
+1. Download 'Remove_Unused_Shape_Keys.py' or 'remove_unused_vertex_groups_and_bones.py' from the Releases section of the page.
 2. Open Blender and in Edit > Preferences... > Add-ons.
 3. Click on the 'ᐯ' in the top right  of the window then 'Install from Disk...'
 4. Find your downloaded '.py' file and tick the checkbox.
