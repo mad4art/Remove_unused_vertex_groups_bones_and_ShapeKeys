@@ -7,7 +7,7 @@ Removes unused vertex groups, bones and shape keys from meshes that actually wor
 3. Click on the 'ᐯ' in the top right  of the window then 'Install from Disk...'
 4. Find your downloaded '.py' file and tick the checkbox.
 
-**Instructions**
+**How to use the add-on(s)**
 1. Select the mesh and open the properties tab on the right hand side
 2. Open the tab named "Data" (its the green triangle)
 3. Save your work before committing (Ctrl + S)
